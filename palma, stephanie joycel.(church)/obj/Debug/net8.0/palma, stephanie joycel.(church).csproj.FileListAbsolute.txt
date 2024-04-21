@@ -1,0 +1,21 @@
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\palma, stephanie joycel.(church).exe
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\palma, stephanie joycel.(church).deps.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\palma, stephanie joycel.(church).runtimeconfig.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\palma, stephanie joycel.(church).dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\palma, stephanie joycel.(church).pdb
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).AssemblyInfo.cs
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\refint\palma, stephanie joycel.(church).dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).pdb
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).genruntimeconfig.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\ref\palma, stephanie joycel.(church).dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\username.deps.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\username.runtimeconfig.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\username.exe
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\username.dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\bin\Debug\net8.0\username.pdb
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, stephanie joycel.(church).csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\palma, stephanie joycel.(church)\obj\Debug\net8.0\palma, s.0834A768.Up2Date

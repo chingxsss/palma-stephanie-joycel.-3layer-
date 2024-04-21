@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "palma, stephanie joycel.(church)/1.0.0": {
+        "dependencies": {
+          "username": "1.0.0"
+        },
+        "runtime": {
+          "palma, stephanie joycel.(church).dll": {}
+        }
+      },
+      "username/1.0.0": {
+        "runtime": {
+          "username.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "palma, stephanie joycel.(church)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "username/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

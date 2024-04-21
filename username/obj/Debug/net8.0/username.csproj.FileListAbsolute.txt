@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\bin\Debug\net8.0\username.exe
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\bin\Debug\net8.0\username.deps.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\bin\Debug\net8.0\username.runtimeconfig.json
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\bin\Debug\net8.0\username.dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\bin\Debug\net8.0\username.pdb
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.AssemblyInfo.cs
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\refint\username.dll
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.pdb
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\username.genruntimeconfig.cache
+C:\Users\acer\source\repos\palma, stephanie joycel.(church)\username\obj\Debug\net8.0\ref\username.dll

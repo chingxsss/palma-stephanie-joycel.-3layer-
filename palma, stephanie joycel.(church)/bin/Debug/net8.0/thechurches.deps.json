@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "thechurches/1.0.0": {
+        "dependencies": {
+          "username": "1.0.0"
+        },
+        "runtime": {
+          "thechurches.dll": {}
+        }
+      },
+      "username/1.0.0": {
+        "runtime": {
+          "username.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "thechurches/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "username/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

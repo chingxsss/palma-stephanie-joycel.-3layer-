@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538217D6-99F1-45CD-9CD4-01499BE18FEF}|ChurchesBL\\BusinessLayer.csproj|c:\\users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\churchesbl\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538217D6-99F1-45CD-9CD4-01499BE18FEF}|ChurchesBL\\BusinessLayer.csproj|solutionrelative:churchesbl\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A48AB3-CAB8-42BF-AFEB-F3D002AA4D42}|ChurchesModel\\Model.csproj|c:\\users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\churchesmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48AB3-CAB8-42BF-AFEB-F3D002AA4D42}|ChurchesModel\\Model.csproj|solutionrelative:churchesmodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525A8A5C-7287-406E-AA68-5FB448F88662}|ChurchesDataServices\\DataLayer.csproj|c:\\users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\churchesdataservices\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525A8A5C-7287-406E-AA68-5FB448F88662}|ChurchesDataServices\\DataLayer.csproj|solutionrelative:churchesdataservices\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D5B969-8AFA-417A-A502-DB97E99B78DF}|ChurchUI\\UserInterface.csproj|c:\\users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\churchui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D5B969-8AFA-417A-A502-DB97E99B78DF}|ChurchUI\\UserInterface.csproj|solutionrelative:churchui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchUI\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "ChurchUI\\ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchUI\\ConsoleUI.cs",
+              "RelativeToolTip": "ChurchUI\\ConsoleUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:21:47.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesBL\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ChurchesBL\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesBL\\ProductManager.cs",
+              "RelativeToolTip": "ChurchesBL\\ProductManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:20:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesDataServices\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ChurchesDataServices\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesDataServices\\ProductRepository.cs",
+              "RelativeToolTip": "ChurchesDataServices\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:12:56.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesModel\\Product.cs",
+              "RelativeDocumentMoniker": "ChurchesModel\\Product.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(church)\\ChurchesModel\\Product.cs",
+              "RelativeToolTip": "ChurchesModel\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:07:05.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
